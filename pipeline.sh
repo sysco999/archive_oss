@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#kheiro
 set -Eeuo pipefail
 
 COMPRESS_SCRIPT="/home/heiro/compress_2months_old_logs.bash"
